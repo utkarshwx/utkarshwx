@@ -1,14 +1,11 @@
 
 <div align="center">
-  <img src="https://imgur.com/a/eqhi5W9"   >
-  
+  <img src="https://i.imgur.com/W4UpocQ.png">
 <h2> Hey there <img src="https://cdn.discordapp.com/emojis/813283699763970099.gif?v=1" width="25px"> , Myself WEBXTheDev</h2>
 
-<hr>
 
-<br>
   <b>  Hi, I'm WEBX aka Utkarsh, a self-taught developer passionate about doing things from Lucknow, India
-    <b></br>
+    <b>
 
 <hr>
 <div align ="left">
@@ -24,7 +21,7 @@ DISCORD :- <a href="https://discord.gg/xmf3kx5bYk">WebX#3009
 
 <hr>
 
-I'm currently working on <b>ZenorZ</b> it will be a multi-purpose bot with some awsm features  
+ZenorZ is fully functional now. check out [click here](https://top.gg/bot/807153847708811274). It helps you to maintain server's decoram changes are going on day by day.
 
 <hr>
 <div align="center">
