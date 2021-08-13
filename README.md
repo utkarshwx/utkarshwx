@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://imgur.com/a/eqhi5W9" width= "128px"  >
+  <img src="https://imgur.com/a/eqhi5W9"   >
   
 <h2> Hey there <img src="https://cdn.discordapp.com/emojis/813283699763970099.gif?v=1" width="25px"> , Myself WEBXTheDev</h2>
 
