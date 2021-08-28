@@ -37,7 +37,7 @@
 <h4>  <b>LANGUAGES</b> and <b>TOOLS</b> I'm using  </h4>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./images/javascript.png" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./images/git.png" width="40" height="40"/> </a>
-<a href=""> <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=35px > </a>
-<a href=""> <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=35px > </a>
+<a href=""> <img src= "./images/html.png" width=40px > </a>
+<a href=""> <img src= "./images/typescript.png" width=40px > </a>
 <a href="https://code.visualstudio.com/insiders/"><img src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" alt="VS Code Insider" width="35px"> </a>
 <a href="https://discord.js.org/#/"><img src="https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default" width="35px"></a>
