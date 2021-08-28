@@ -5,9 +5,8 @@
   &nbsp;
 <h2> Hey there, Myself <strong>WEBXTheDev</h2>
 
-
-  <b>  Hi, I'm WEBX aka Utkarsh, a self-taught developer passionate about doing things from Lucknow, India
-    <b>
+    Hi, I'm WEBX aka Utkarsh, a self-taught developer passionate about doing things from Lucknow, India
+    
 &nbsp;
 <hr>
 
@@ -23,14 +22,13 @@
     </a>
 </p>
 
-<hr>
-
-ZenorZ is fully functional now. check out [click here](https://top.gg/bot/807153847708811274). It helps you to maintain server's decoram changes are going on day by day.
-
-<hr>
+&nbsp;
+      <hr>
+      &nbsp;
 <div align="center">
 <h4>  <b>LANGUAGES</b> and <b>TOOLS</b> I'm using  </h4>
- <a href=""><img src="https://res.cloudinary.com/teepublic/image/private/s--bZwGEjXl--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1539274051/production/designs/3302114_0.jpg" width=35px > </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./images/javascript.png" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="./images/git.png" width="40" height="40"/> </a>
 <a href=""> <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=35px > </a>
 <a href=""> <img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width=35px > </a>
 <a href="https://code.visualstudio.com/insiders/"><img src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" alt="VS Code Insider" width="35px"> </a>
