@@ -17,7 +17,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WEBXTheDev&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=FF4D4D&hide_border=true/" />
     </a>
     <a href="https://github.com/WEBXTheDev/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=WEBXTHEDEV&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FF0000&ring=FF2626&stroke=FFFFFF)](https://git.io/streak-stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=WEBXTHEDEV&hide_border=true&background=0D1117&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FF0000&ring=FF2626&stroke=FFFFFF)](https://git.io/streak-stats" />
     </a>
 </p>
 
