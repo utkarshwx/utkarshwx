@@ -1,12 +1,14 @@
 
 <div align="center">
   <img src="https://i.imgur.com/W4UpocQ.png">
-<h2> Hey there <img src="https://cdn.discordapp.com/emojis/813283699763970099.gif?v=1" width="25px"> , Myself WEBXTheDev</h2>
+  
+  &nbsp;
+<h2> Hey there, Myself <strong>WEBXTheDev</h2>
 
 
   <b>  Hi, I'm WEBX aka Utkarsh, a self-taught developer passionate about doing things from Lucknow, India
     <b>
-
+&nbsp;
 <hr>
 
   <p align="center">
