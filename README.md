@@ -8,16 +8,7 @@
     <b>
 
 <hr>
-<div align ="left">
-Here you can contact me:-
 
-
-INSTAGRAM :- 
-<a href="https://www.instagram.com/utka_rsh3009/">@utka_rsh3009   <img src="https://cdn.discordapp.com/emojis/761615082572218429.gif?v=1" alt="Utkarsh Nigam" width="20px"></a>
-
-DISCORD :- <a href="https://discord.gg/xmf3kx5bYk">WebX#3009
-<img src="https://cdn.discordapp.com/emojis/813254456429903872.gif?v=1" width="20px"> 
-</a>
   <p align="center">
     <a href="https://github.com/WEBXTheDev/">
         <img src="https://github-readme-stats.vercel.app/api?username=WEBXTheDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=FF0000&hide_border=true/" />
