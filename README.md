@@ -18,6 +18,17 @@ INSTAGRAM :-
 DISCORD :- <a href="https://discord.gg/xmf3kx5bYk">WebX#3009
 <img src="https://cdn.discordapp.com/emojis/813254456429903872.gif?v=1" width="20px"> 
 </a>
+  <p align="center">
+    <a href="https://github.com/WEBXTheDev/">
+        <img src="https://github-readme-stats.vercel.app/api?username=WEBXTheDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=FF0000&hide_border=true/" />
+    </a>
+    <a href="https://github.com/WEBXTheDev/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WEBXTheDev&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=FF4D4D&hide_border=true/" />
+    </a>
+    <a href="https://github.com/WEBXTheDev/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=WEBXTHEDEV&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FF0000&ring=FF2626&stroke=FFFFFF)](https://git.io/streak-stats" />
+    </a>
+</p>
 
 <hr>
 
