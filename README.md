@@ -20,6 +20,15 @@
     <a href="https://github.com/WEBXTheDev/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=WEBXTHEDEV&hide_border=true&background=0D1117&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FF0000&ring=FF2626&stroke=FFFFFF)](https://git.io/streak-stats" />
     </a>
+    
+    
+    <a href="https://github.com/WEBXTheDev/ZenorZ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=ZenorZ&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
+    </a>
+    <a href="https://github.com/WEBXTheDev/WEBXTheDev">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=WEBXTheDev&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
+    </a>
+   
 </p>
 
 &nbsp;
