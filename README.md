@@ -27,6 +27,10 @@
     <a href="https://github.com/WEBXTheDev/WEBXTheDev/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=WEBXTheDev&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
     </a>
+      
+      <a href="https://open.spotify.com/user/zxbv4llbee0w06hsekcvi23vp">
+    ![SPOTIFY](https://spotify-recently-played-readme.vercel.app/api?user=zxbv4llbee0w06hsekcvi23vp&count=1)
+    </a>
     
 </p>
 
