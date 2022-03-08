@@ -31,7 +31,7 @@
 
 &nbsp;<hr>
   
-  <a href="https://discor.gg"><img align="middle" src="https://discord.c99.nl/widget/theme-4/710336522196353045.png">
+  <a href="https://discord.gg"><img align="middle" src="https://discord.c99.nl/widget/theme-4/710336522196353045.png">
       <hr>
       &nbsp;
 <div align="center">
