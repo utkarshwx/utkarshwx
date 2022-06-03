@@ -1,6 +1,6 @@
-
+<!--Cover page of github.com/WEBXTheDev-->
 <div align="center">
-  <img src="https://i.imgur.com/W4UpocQ.png">
+  <a href=""> <img src= "./images/wallpaper.jpg"></a>
   
   &nbsp;
 <h2> Heyo there, Myself <strong>WEBXTheDev</h2>
