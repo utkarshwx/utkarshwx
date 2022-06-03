@@ -1,6 +1,6 @@
 <!--Cover page of github.com/WEBXTheDev-->
 <div align="center">
-  <a href=""> <img src= "./images/wallpaper.jpg"></a>
+  <a href=""> <img src= "./images/banner.jpg"></a>
   
   &nbsp;
 <h2> Heyo there, Myself <strong>WEBXTheDev</h2>
