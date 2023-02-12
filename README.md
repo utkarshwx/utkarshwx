@@ -22,23 +22,23 @@
 
 &nbsp;
   <p align="center">
-    <a href="https://github.com/WEBXTheDev?tab=repositories">
+    <a href="https://github.com/utkarshnigm?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api?username=WEBXTheDev&hide=0,prs&count_private=true&show_owner=false&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=FF0000&hide_border=true/" />
     </a>
-    <a href="https://github.com/WEBXTheDev?tab=repositories">
+    <a href="https://github.com/utkarshnigm?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WEBXTheDev&layout=compact&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=FF4D4D&hide_border=true/" />
     </a>
-    <a href="https://github.com/WEBXTheDev?tab=repositories">
+    <a href="https://github.com/utkarshnigm?tab=repositories">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=WEBXTHEDEV&hide_border=true&background=0D1117&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FF0000&ring=FF2626&stroke=FFFFFF)](https://git.io/streak-stats" />
     </a></p>
     <p align="center">
-    <a href="https://github.com/WEBXTheDev/ZenorZ/">
+    <a href="https://github.com/utkarshnigm/ZenorZ/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=ZenorZ&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
     </a>
-    <a href="https://github.com/WEBXTheDev/WEBXTheDev/">
+    <a href="https://github.com/utkarshnigm/utkarshnigm/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=WEBXTheDev&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
       </a>
-      <a href="https://github.com/WEBXTheDev/Lavanox/">
+      <a href="https://github.com/utkarshnigm/Lavanox/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=WEBXTheDev&repo=Lavanox&bg_color=0d1117&title_color=FF0000&text_color=8b949e&icon_color=FF4D4D&hide_border=true/" />
       </a>     
 </p>
